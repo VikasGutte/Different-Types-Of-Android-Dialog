@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert</string>
+    <string name="show_alert">Android Alert Dialog</string>
+    <string name="show">Show</string>
+    <string name="dont">Don\'t Show</string>
+    <string name="Custom_alert">Custom Alert</string>
+</resources>
